@@ -91,6 +91,9 @@ Discover how other organizations use Azure AD Conditional Access to define and i
 
 Customers with [Microsoft 365 Business licenses](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) also have access to Conditional Access features. 
 
+[!NOTE]
+Each individual user being controlled by a conditional access policy should have a valid license assigned.
+
 ## Next steps
 
 [Building a Conditional Access policy piece by piece](concept-conditional-access-policies.md)
